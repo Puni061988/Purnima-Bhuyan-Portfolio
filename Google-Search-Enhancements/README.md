@@ -70,7 +70,7 @@ This project focused on enhancing Google Search Ads campaigns for a client portf
 ---
 
 ## Project Files
-- **Campaign Performance Report**: [Campaign-Performance-Report.pdf](./Campaign-Performance-Report.pdf)
+- **Campaign Performance Report**: [Campaign-Performance-Report.pdf](./Google-Search-Enhancements/Campaign_Performance_Report.pptx)
 - **Keyword Analysis Document**: [Keyword-Analysis.xlsx](./Keyword-Analysis.xlsx)
 - **Sample Ad Copy Variations**: [Ad-Copy-Samples.docx](./Ad-Copy-Samples.docx)
 
