@@ -7,7 +7,8 @@ Welcome to my digital marketing portfolio! I’m a results-driven digital market
 1. [Campaign Case Studies](#campaign-case-studies)
 2. [Analytics Projects](#analytics-projects)
 3. [Content and SEO Work](#content-and-seo-work)
-4. [Contact Information](#contact-information)
+4. [Skills and Tools](#Skills-and-Tools)
+5. [Contact Information](#contact-information)
 
 ---
 
@@ -40,6 +41,13 @@ Welcome to my digital marketing portfolio! I’m a results-driven digital market
 - **Description**: Developed an SEO strategy for a client’s blog, focusing on high-ranking keywords and targeted content creation.
 - **Skills**: SEO, Content Creation, Keyword Analysis
 - **Results**: Increased organic traffic by 45% in six months.
+
+## Skills and Tools
+- **Digital Advertising**: Google Ads, Microsoft Ads, Bing Ads, Facebook Ads
+- **Web & E-commerce Platforms**: WordPress, Drupal, Prestashop
+- **Cloud and Infrastructure**: AWS, Azure
+- **Development**: PHP
+- **Analytics & Reporting**: Google Analytics, Power BI, Excel
 
 ---
 
