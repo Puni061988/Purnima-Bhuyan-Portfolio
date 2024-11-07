@@ -70,7 +70,7 @@ This project focused on optimizing Bing Ads campaigns for a portfolio of 25+ med
 
 ## Project Files
 - **Campaign Performance Summary**: [Campaign-Performance-Summary.pdf](./Microsoft-Ads-Campaign/Campaign%20Performance.pdf)
-- **Ad Copy Variants**: [Ad-Copy-Variants.docx](./Ad-Copy-Variants.docx)
+- **Ad Copy Variants**: [Ad-Copy-Variants.pptx](.Microsoft-Ads-Campaign/Ad%20Copy%20Variant%20Document.pptx)
 - **Client Growth Plans**: [Client-Growth-Plans.pdf](./Microsoft-Ads-Campaign/Client_Growth_Plan.pdf)
 - **Competitive Keyword Gap Analysis**: [Competitive-Keyword_Gap-Analysis-Vertical-Level.xlsx](./Microsoft-Ads-Campaign/Competitive_Keyword_Gap_Analysis_Vertical%20Level.xlsx)
 
