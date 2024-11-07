@@ -70,9 +70,9 @@ This project focused on enhancing Google Search Ads campaigns for a client portf
 ---
 
 ## Project Files
-- **Campaign Performance Report**: [Campaign-Performance-Report.pdf](./Google-Search-Enhancements/Campaign_Performance_Report.pptx)
-- **Keyword Analysis Document**: [Keyword-Analysis.docx](./Google-Search-Enhancements/Keyword%20Analysis%20Document.docx)
-- **Sample Ad Copy Variations**: [Ad-Copy-Samples.docx](./Google-Search-Enhancements/Ad%20Copy%20Variations.docx)
+- **Campaign Performance Report**: [Campaign-Performance-Report.pdf](https://github.com/Puni061988/Purnima-Bhuyan-Portfolio/blob/main/Google-Search-Enhancements/Campaign_Performance_Report.pptx)
+- **Keyword Analysis Document**: [Keyword-Analysis.docx](https://github.com/Puni061988/Purnima-Bhuyan-Portfolio/blob/main/Google-Search-Enhancements/Keyword%20Analysis%20Document.docx)
+- **Sample Ad Copy Variations**: [Ad-Copy-Samples.docx](https://github.com/Puni061988/Purnima-Bhuyan-Portfolio/blob/main/Google-Search-Enhancements/Ad%20Copy%20Variations.docx)
 
 ---
 
