@@ -74,7 +74,7 @@ This project focused on optimizing Bing Ads campaigns for a portfolio of 25+ med
 - **Ad Copy Variants Bing Campaign**: [Ad-Copy-Variants.pdf](https://github.com/Puni061988/Purnima-Bhuyan-Portfolio/blob/main/Microsoft-Ads-Campaign/Ad_Copy_Variants_Bing_Campaign.pdf)
 - **Audience Ad Mockup Deck**: [Ad-Copy-Variants.pdf](https://github.com/Puni061988/Purnima-Bhuyan-Portfolio/blob/main/Microsoft-Ads-Campaign/Audience-Ad-Mockup-Deck.pdf)
 - **Client Growth Plans**: [Client-Growth-Plans.pdf](https://github.com/Puni061988/Purnima-Bhuyan-Portfolio/blob/main/Microsoft-Ads-Campaign/Client_Growth_Plan.pdf)
-- **Competitive Keyword Gap Analysis**: [Competitive-Keyword_Gap-Analysis-Vertical-Level.xlsx](https://github.com/Puni061988/Purnima-Bhuyan-Portfolio/blob/main/Microsoft-Ads-Campaign/Competitive_Keyword_Gap_Analysis_Vertical%20Level.xlsx)
+- **Competitive Keyword Gap Analysis**: [Competitive-Keyword_Gap-Analysis-Vertical-Level.png](https://github.com/Puni061988/Purnima-Bhuyan-Portfolio/blob/main/Microsoft-Ads-Campaign/Competitive_Keyword_Gap_Analysis_Vertical%20Level%20(Screenshot).png)
 
 ---
 
