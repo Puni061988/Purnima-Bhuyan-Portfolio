@@ -1,1 +1,27 @@
+# Christmas Lunch Event Campaign
+
+## Overview
+A community and fundraising event requiring strong pre-event and on-event marketing support.
+
+## My Role
+- Designed all promotional materials  
+- Built social media campaigns  
+- Updated ARC website event sections  
+- Supported event day coverage  
+
+## Strategy & Approach
+Create warm, community-focused messaging while maintaining ARC’s visual identity.
+
+## Execution
+- Posters, invitations, digital graphics  
+- Social countdown posts & reminders  
+- Website content updates  
+- Event-day social coverage  
+
+## Impact & Outcomes
+- Increased attendance + engagement  
+- Stronger sense of community connection  
+
+## Tools & Skills Used
+Event Marketing, Visual Design, Social Media, CMS Updates
 
