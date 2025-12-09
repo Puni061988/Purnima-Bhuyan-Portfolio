@@ -1,4 +1,4 @@
-# Purnima Bhuyan's Digital Marketing | CRM | Analytics | Strategy Portfolio
+# 🌟Purnima Bhuyan's Digital Marketing | CRM | Analytics | Strategy Portfolio
 
 Elevating brands through data-driven marketing, digital transformation, and storytelling.
 
