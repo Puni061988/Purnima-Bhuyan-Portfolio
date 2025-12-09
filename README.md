@@ -19,7 +19,7 @@ My work combines creativity, technology, and data, resulting in campaigns that n
 
 This portfolio is intentionally organized into six skill domains, reflecting the breadth of marketing leadership I bring:
 
-1️⃣ Digital Marketing Campaigns (ARC Cancer Support Centres)
+1️⃣ Digital-Marketing-Campaigns (ARC Cancer Support Centres)
 
 Full-funnel campaign ownership — from concept, copywriting, design, and production to cross-channel digital transformation and measurement.
 
@@ -35,7 +35,7 @@ Full-funnel campaign ownership — from concept, copywriting, design, and produc
 9. Paris to Nice Fundraising Social Coverage
 10. Dip in the Nip
 
-👉 Explore folder: [ARC-Digital-Marketing-Portfolio](ARC-Digital-Marketing-Portfolio/)
+👉 Explore folder: [1_Digital-Marketing-Campaigns](1_Digital-Marketing-Campaigns/)
 
 
 2️⃣ CRM & Automation Projects
@@ -50,7 +50,7 @@ Tools used: HubSpot, Salesforce, Workbench, Website CMS
 3. Salesforce Workbench Data Operations
 4. Donor Segmentation & Data Processing
 
-👉 Explore folder: [_CRM-and-Automation-Projects](_CRM-and-Automation-Projects/)
+👉 Explore folder: [2_CRM-and-Automation-Projects](2_CRM-and-Automation-Projects/)
 
 
 3️⃣ Website Analytics & Tracking
@@ -63,7 +63,7 @@ Building tracking frameworks, analyzing performance, and translating insights in
 3. Measurement Frameworks
 4. Insights, Findings & Future Optimization
 
-👉 Explore folder: [_Website-Analytics-and-Tracking](_Website-Analytics-and-Tracking/)
+👉 Explore folder: [3_Website-Analytics-and-Tracking](3_Website-Analytics-and-Tracking/)
 
 4️⃣ Strategic Reports & Executive Documentation
 
@@ -74,7 +74,7 @@ High-level reporting for leadership teams — demonstrating strategic thinking, 
 2. Board Reports
 3. Campaign Learnings & Strategic Implications
 
-👉 Explore folder: [_Strategic-Reports-and-Documentation](_Strategic-Reports-and-Documentation/)
+👉 Explore folder: [4_Strategic-Reports-and-Documentation](4_Strategic-Reports-and-Documentation/)
 
 5️⃣ Academic & Collaboration Projects
 
@@ -87,7 +87,7 @@ Mentorship + industry-led learning with TU Dublin, guiding students through real
 4. Radio script development
 5. Social media strategy mentorship
 
-👉 Explore folder: [_Academic-and-Collaboration-Projects](_Academic-and-Collaboration-Projects/)
+👉 Explore folder: [5_Academic-and-Collaboration-Projects](5_Academic-and-Collaboration-Projects/)
 
 6️⃣ Digital Advertising Projects
 
