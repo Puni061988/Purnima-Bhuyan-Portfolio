@@ -25,7 +25,11 @@ The strategy centered on emotionally compelling storytelling paired with clear c
 ## Impact & Outcomes
 - Strengthened ARC’s donor engagement and brand trust  
 - Increased visibility and consistency across all digital platforms  
-- Enabled more streamlined donor communication processes  
+- Enabled more streamlined donor communication processes
+
+## - **Newsletter PDF:** [View File](Newsletter.pdf)
+- **Direct Mail Pack:** [ARC C5X Outer.pdf](https://github.com/Puni061988/Purnima-Bhuyan-Portfolio/blob/main/1_Digital-Marketing-Campaigns/Fundraising-Newsletter/ARC%20C5X%20Outer.pdf)
+- **Newsletter:** [ARC newsletter.pdf](https://github.com/Puni061988/Purnima-Bhuyan-Portfolio/blob/main/1_Digital-Marketing-Campaigns/Fundraising-Newsletter/ARC%20newsletter.pdf)
 
 ## Tools & Skills Used
 HubSpot, Canva, Data Processing, Copywriting, Branding, Segmentation, Social Media Marketing
