@@ -35,7 +35,8 @@ Full-funnel campaign ownership — from concept, copywriting, design, and produc
 9. Paris to Nice Fundraising Social Coverage
 10. Dip in the Nip
 
-👉 Explore folder: _Digital-Marketing-Campaigns
+👉 Explore folder: [ARC-Digital-Marketing-Portfolio](ARC-Digital-Marketing-Portfolio/)
+
 
 2️⃣ CRM & Automation Projects
 
