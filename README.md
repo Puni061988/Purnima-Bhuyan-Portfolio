@@ -33,7 +33,7 @@ Full-funnel campaign ownership — from concept, copywriting, design, and produc
 7. Christmas Cards
 8. Christmas Lunch Event
 9. Paris to Nice Fundraising Social Coverage
-10. Dip in the Nip
+10. KingSpin Event
 
 👉 Explore folder: [1_Digital-Marketing-Campaigns](1_Digital-Marketing-Campaigns/)
 
