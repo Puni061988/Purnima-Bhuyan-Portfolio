@@ -19,7 +19,7 @@ My work combines creativity, technology, and data, resulting in campaigns that n
 
 This portfolio is intentionally organized into six skill domains, reflecting the breadth of marketing leadership I bring:
 
-1️⃣ Digital Marketing Campaigns (ARC Cancer Support)
+1️⃣ Digital Marketing Campaigns (ARC Cancer Support Centres)
 
 Full-funnel campaign ownership — from concept, copywriting, design, and production to cross-channel digital transformation and measurement.
 
@@ -35,7 +35,7 @@ Full-funnel campaign ownership — from concept, copywriting, design, and produc
 9. Paris to Nice Fundraising Social Coverage
 10. Dip in the Nip
 
-👉 Explore folder: 1_Digital-Marketing-Campaigns
+👉 Explore folder: _Digital-Marketing-Campaigns
 
 2️⃣ CRM & Automation Projects
 
