@@ -127,7 +127,7 @@ This portfolio represents that philosophy in action.
 If you’d like to discuss my work, collaborate, or explore opportunities:
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/purnimabhuyan/)
-Email: [purnimab1988@icloud.com](mailto:purnimab1988@icloud.com)
+Email: [bhuyanpuni.06@gmail.com](mailto:bhuyanpuni.06@gmail.com)
 
 **🎉 Thank You for Visiting My Portfolio**
 
