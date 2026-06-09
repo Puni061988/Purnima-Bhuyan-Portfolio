@@ -1,137 +1,137 @@
-# 🌟Purnima Bhuyan's Digital Marketing | CRM | Analytics | Strategy Portfolio
+# Purnima Bhuyan — Campaign Measurement, Tagging & Digital Marketing Operations Portfolio
 
-Elevating brands through data-driven marketing, digital transformation, and storytelling.
+**Campaign Tagging Strategy | UTM Governance | Marketing Analytics | CRM & Automation | Cross-Channel Measurement**
 
-Welcome to my professional portfolio — a curated collection of strategic, creative, and analytical digital marketing projects I’ve led across fundraising, events, CRM, website optimization, analytics, and student collaboration.
+📍 Dublin, Ireland &nbsp;|&nbsp; ✉️ [Purnimab1988@icloud.com](mailto:Purnimab1988@icloud.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/purnimabhuyan/)
 
-With 14+ years of experience across Microsoft, Google Operations, Accenture, Cognizant, ARC Cancer Support, and more, I bring a 360° understanding of digital marketing, blending:
+---
 
-📈 Performance-driven strategy
-🎨 Creative storytelling
-🔧 Technical implementation
-🧩 Customer & donor journey optimization
-🤝 Cross-functional collaboration
-🔍 Deep analytics & insights
+## About This Portfolio
 
-My work combines creativity, technology, and data, resulting in campaigns that not only look great — but deliver meaningful impact.
+I am a senior digital marketing professional with **14+ years of experience** specialising in campaign measurement, UTM tagging governance, cross-channel analytics, and marketing operations — across enterprise environments including **Microsoft EMEA, Google Operations Center, Accenture, and ARC Cancer Support**.
 
-## Portfolio Overview
+This portfolio demonstrates my hands-on expertise in the areas that matter most to measurement-focused marketing teams:
 
-This portfolio is intentionally organized into six skill domains, reflecting the breadth of marketing leadership I bring:
+- ✅ **UTM strategy & tagging governance** — designing naming conventions, enforcement frameworks, and QA processes that ensure consistent, accurate campaign attribution across all channels
+- ✅ **Campaign tracking & QA** — pixel implementation, Google Tag Manager configuration, conversion tracking validation, and pre-launch QA protocols for email and digital campaigns
+- ✅ **Marketing automation & email operations** — campaign setup, proof QA, link tracking, and deployment across platforms including HubSpot and Salesforce Marketing Cloud (SFMC)
+- ✅ **Analytics & performance reporting** — GA4, Looker Studio, Power BI, and SQL-based dashboards translating tracking data into actionable insights for senior stakeholders
+- ✅ **CRM attribution & data integrity** — Salesforce and HubSpot pipeline reporting, MQL attribution, and GDPR-compliant data management
+- ✅ **Stakeholder training & governance** — training brand teams, agency partners, and cross-functional stakeholders on tagging best practices and measurement standards
+- ✅ **Cross-functional collaboration** — working at the intersection of marketing, technology, and agency teams to align on campaign requirements, resolve tracking issues, and deliver measurement at scale
 
-1️⃣ Digital-Marketing-Campaigns (ARC Cancer Support Centres)
+My approach is precision-first: I believe that accurate data is the foundation of every good marketing decision, and that tagging governance and measurement infrastructure are not back-office functions — they are strategic capabilities that directly determine the quality of insight an organisation can act on.
 
-Full-funnel campaign ownership — from concept, copywriting, design, and production to cross-channel digital transformation and measurement.
+---
 
-**Projects include:**
-1. Fundraising Newsletter
-2. Services Newsletter
-3. Calendars & Print Assets
-4. Shelbourne Tea Event
-5. Celebration of Hope
-6. Christmas Direct Mail Campaign
-7. Christmas Cards
-8. Christmas Lunch Event
-9. Paris to Nice Fundraising Social Coverage
-10. KingSpin Event
+## Portfolio Structure
 
-👉 Explore folder: [1_Digital-Marketing-Campaigns](1_Digital-Marketing-Campaigns/)
+This portfolio is organised into six domains that collectively demonstrate the full measurement and campaign operations skillset:
 
+---
 
-2️⃣ CRM & Automation Projects
+### 📊 1. Campaign Tagging, Tracking & Analytics
+> **Most relevant to campaign measurement and digital optimisation roles**
 
-Improving donor and customer experience through CRM-driven workflows, website updates, segmentation, and integrations.
+**[→ Explore: 3\_Website-Analytics-and-Tracking](./3_Website-Analytics-and-Tracking)**
 
-Tools used: HubSpot, Salesforce, Workbench, Website CMS
+This is the core measurement work. Projects in this folder demonstrate end-to-end campaign tracking implementation, UTM framework design, GA4 event configuration, and measurement strategy — including:
 
-**Projects include:**
-1. HubSpot Website Section Updates
-2. Salesforce CRM Data Flows
-3. Salesforce Workbench Data Operations
-4. Donor Segmentation & Data Processing
+- **UTM & Campaign Tracking Frameworks** — structured naming convention systems designed for multi-channel governance across paid search, paid social, email, and display; built to ensure consistent attribution and eliminate mislabelled traffic
+- **Event & Conversion Tracking Implementation** — GA4 custom event setup, goal configuration, and QA validation processes used to establish reliable conversion measurement from the ground up
+- **Measurement Frameworks & Analytics Strategy** — structured documentation translating business KPIs into trackable measurement plans, covering channel attribution methodology, data quality standards, and reporting cadence
+- **Performance Analysis & Optimisation Insights** — cross-channel dashboard reporting built in Looker Studio and GA4, surfacing CPL trends, channel contribution, and actionable optimisation recommendations for senior stakeholders
 
-👉 Explore folder: [2_CRM-and-Automation-Projects](2_CRM-and-Automation-Projects/)
+**Tools demonstrated:** Google Analytics 4, Google Tag Manager, Looker Studio, UTM Frameworks, Pixel QA, Conversion Tracking, SQL
 
+---
 
-3️⃣ Website Analytics & Tracking
+### 🤖 2. CRM, Marketing Automation & Email Operations
+> **Relevant to SFMC, HubSpot, and campaign deployment workflows**
 
-Building tracking frameworks, analyzing performance, and translating insights into actionable recommendations.
+**[→ Explore: 2\_CRM-and-Automation-Projects](./2_CRM-and-Automation-Projects)**
 
-**Projects include:**
-1. Website Performance Analysis
-2. Event & Campaign Tracking
-3. Measurement Frameworks
-4. Insights, Findings & Future Optimization
+Demonstrates practical experience with CRM-driven campaign workflows, email campaign setup, tracking integration, and data operations — including:
 
-👉 Explore folder: [3_Website-Analytics-and-Tracking](3_Website-Analytics-and-Tracking/)
+- **HubSpot Campaign Setup & Tracking** — email campaign configuration, UTM link integration, and performance tracking within HubSpot workflows
+- **Salesforce CRM Data Flows & Attribution** — pipeline reporting, MQL-to-revenue attribution, and data integrity processes within Salesforce
+- **Salesforce Workbench Data Operations** — structured data management and segmentation workflows supporting accurate campaign audience targeting and reporting
+- **Audience Segmentation & Data Processing** — ICP-based segmentation logic and list management processes ensuring campaign targeting accuracy and compliance
 
-4️⃣ Strategic Reports & Executive Documentation
+**Tools demonstrated:** HubSpot, Salesforce, Salesforce Marketing Cloud (SFMC), Workbench, CRM Attribution, GDPR-compliant data management
 
-High-level reporting for leadership teams — demonstrating strategic thinking, clarity, and organizational storytelling.
+---
 
-**Projects include:**
-1. Annual Reports
-2. Board Reports
-3. Campaign Learnings & Strategic Implications
+### 📣 3. Multi-Channel Campaign Execution & Measurement
+> **Demonstrates full-funnel campaign ownership with measurement integration**
 
-👉 Explore folder: [4_Strategic-Reports-and-Documentation](4_Strategic-Reports-and-Documentation/)
+**[→ Explore: 1\_Digital-Marketing-Campaigns](./1_Digital-Marketing-Campaigns)**
 
-5️⃣ Academic & Collaboration Projects
+End-to-end campaign execution across paid social, email, events, and print — with tracking and measurement integrated at every stage. Projects include multi-channel fundraising campaigns, event marketing programmes, and integrated digital campaigns reaching 10,000+ audience members, all built on structured UTM tagging and attribution frameworks.
 
-Mentorship + industry-led learning with TU Dublin, guiding students through real-world campaign challenges.
+Key measurement outcomes: 30% improvement in campaign engagement, 25% increase in event participation, and consistent cross-channel attribution supporting campaigns exceeding €250K annually.
 
-**Contributions include:**
-1. Student brief creation
-2. Marketing project assignments
-3. UX design guidance
-4. Radio script development
-5. Social media strategy mentorship
+**Channels covered:** Paid Social, Email, Display, Events, Direct Mail, Organic Social
 
-👉 Explore folder: [5_Academic-and-Collaboration-Projects](5_Academic-and-Collaboration-Projects/)
+---
 
-6️⃣ Digital Advertising Projects
+### 📋 4. Strategic Reporting & Executive Documentation
+> **Demonstrates stakeholder communication and performance governance**
 
-From my experience working in Microsoft Advertising and Google ecosystems.
+**[→ Explore: 4\_Strategic-Reports-and-Documentation](./4_Strategic-Reports-and-Documentation)**
 
-**Projects include:**
-👉 Explore folder: [Google-Search-Enhancements](Google-Search-Enhancements/)
-👉 Explore folder: [Microsoft-Ads-Campaign](Microsoft-Ads-Campaign/)
+Senior-level reporting and documentation demonstrating the ability to translate complex campaign and measurement data into clear, decision-ready insights for leadership teams — including:
 
-**💎 What I Bring as a Digital Marketer & Strategist**
+- **Annual & Board-Level Performance Reports** — structured executive reporting on campaign ROI, channel performance, and measurement quality
+- **Campaign Learnings & Strategic Implications** — post-campaign analysis documents mapping tracking data to strategic decisions and future optimisation plans
 
-✔ End-to-end campaign ownership
-✔ Strong creative + analytical balance
-✔ Leadership in digital transformation
-✔ Donor & customer journey experience
-✔ CRM & marketing automation
-✔ Event marketing strategy
-✔ SEO + SEM + Paid Media Understanding
-✔ Insights & reporting for executives
-✔ Problem-solving and cross-team collaboration
-✔ Ability to simplify complexity into clarity
+This work reflects the governance and communication skills required to manage a measurement product and present recommendations to senior cross-functional stakeholders.
 
-**🚀 My Approach to Marketing**
+---
 
-I believe marketing should be:
+### 🎯 5. Digital Advertising & Paid Media Projects
+> **Google and Microsoft Ads campaign management with analytics integration**
 
-✨ Human-centered – built on empathy and real needs
-✨ Data-powered – informed by insights, not assumptions
-✨ Creatively inspired – memorable, emotional, meaningful
-✨ Technically strong – with precise tracking & automation
-✨ Strategically aligned – driving organizational goals
+**[→ Explore: Google-Search-Enhancements](./Google-Search-Enhancements)** &nbsp;|&nbsp; **[→ Explore: Microsoft-Ads-Campaign](./Microsoft-Ads-Campaign)**
 
-This portfolio represents that philosophy in action.
+Paid search and digital advertising projects from my experience in Google and Microsoft ecosystems — demonstrating campaign structure, tracking setup, performance optimisation, and reporting. Includes Google Ads conversion tracking implementation, search campaign QA processes, and Microsoft Advertising campaign management with integrated analytics.
 
-**📫 Let’s Connect**
+---
 
-If you’d like to discuss my work, collaborate, or explore opportunities:
+### 🎓 6. Academic & Industry Collaboration Projects
 
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/purnimabhuyan/)
-Email: [bhuyanpuni.06@gmail.com](mailto:bhuyanpuni.06@gmail.com)
+**[→ Explore: 5\_Academic-and-Collaboration-Projects](./5_Academic-and-Collaboration-Projects)**
 
-**🎉 Thank You for Visiting My Portfolio**
+Industry mentorship work with TU Dublin — guiding students through real-world campaign briefs including analytics strategy, measurement planning, and digital marketing execution. Reflects the training and knowledge-transfer capability central to senior marketing operations leadership.
 
-Feel free to explore each folder — every project tells a story of creativity, purpose, and measurable impact.
+---
 
-# Purnima-Bhuyan-Portfolio
-Portfolio showcasing my digital marketing and analytics projects.
+## Core Technical Competencies Demonstrated
+
+| Domain | Tools & Skills |
+|---|---|
+| **Tagging & Tracking** | Google Tag Manager, UTM Frameworks, Pixel Setup & QA, Conversion Tracking, GA4 Event Configuration |
+| **Analytics & Reporting** | Google Analytics 4, Looker Studio, Power BI, SQL, Google Search Console |
+| **Marketing Automation** | HubSpot, Salesforce Marketing Cloud (SFMC), Email QA & Deployment, CRM Workflows |
+| **CRM & Attribution** | Salesforce, HubSpot, Pipeline Reporting, MQL Attribution, GDPR-Compliant Data Management |
+| **Paid Channels** | Google Ads, LinkedIn Campaign Manager, Meta Ads Manager, Microsoft Advertising |
+| **Collaboration & PM** | Jira, Slack, Excel, Google Sheets, Cross-functional & Agency Coordination |
+
+---
+
+## What I Bring to a Measurement-Led Marketing Team
+
+- **Tagging governance at scale** — designing and enforcing UTM frameworks across enterprise environments with multiple channels, agency partners, and brand teams
+- **QA discipline** — systematic pre-launch tracking validation that prevents data loss and attribution errors before they reach reporting
+- **Technical-to-non-technical translation** — proven ability to train brand teams, agencies, and senior stakeholders on tagging requirements and analytics interpretation
+- **Cross-functional alignment** — experience coordinating between marketing, development, and external agency teams to deliver measurement infrastructure that actually gets used
+- **Product ownership mindset** — comfortable defining requirements, prioritising improvements, and acting as a measurement subject matter expert across complex, multi-stakeholder environments
+
+---
+
+## Let's Connect
+
+I'm open to discussing campaign measurement, tagging operations, and digital analytics roles in Dublin and globally.
+
+🔗 [LinkedIn — purnimabhuyan](https://www.linkedin.com/in/purnimabhuyan/)
+✉️ [Purnimab1988@icloud.com](mailto:Purnimab1988@icloud.com)
